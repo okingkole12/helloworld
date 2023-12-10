@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>PIIT User Registration (class)</h1>
+    <h1>PIIT User Registration (blue cheese)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
